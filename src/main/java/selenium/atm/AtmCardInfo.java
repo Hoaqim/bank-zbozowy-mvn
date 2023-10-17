@@ -8,7 +8,7 @@ package main.java.selenium.atm;
  */
 public class AtmCardInfo {
 
-	final int RIGHT_PIN = 1555;
+	final int RIGHT_PIN = 1525;
 	
 	boolean isCardIn = false;
 	
